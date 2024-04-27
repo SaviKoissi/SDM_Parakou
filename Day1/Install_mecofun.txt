@@ -1,0 +1,3 @@
+if(!"mecofun" %in% installed.packages()[,"Package"]){
+  remotes::install_git("https://gitup.uni-potsdam.de/macroecology/mecofun.git")
+}
