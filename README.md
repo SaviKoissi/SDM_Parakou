@@ -1,2 +1,2 @@
 # SDM_Parakou
-Training of Expert in Species Distribution Modeling Using R 
+Capacity Building in Species Distribution Modeling with R: Empowering Experts
